@@ -1,0 +1,11 @@
+.bkgrd {
+    background: rgb(29, 180, 252);
+    background: radial-gradient(circle, rgba(29, 180, 252, 1) 0%, rgba(128, 0, 128, 1) 100%);
+    height: 100vh;
+    width: 100%;
+}
+
+.fa {
+    font-size: 1.5em;
+    color: #fff;
+}
